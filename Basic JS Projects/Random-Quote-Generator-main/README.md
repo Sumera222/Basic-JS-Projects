@@ -8,35 +8,8 @@ Random-Quote-Generator
 
 -JavaScript
 
-This repo is for Random Quote Generator App. We, as a team of 4, has worked on creating Random Quote Generator App using HTML, CSS and JavaScript.
+This repo is for Random Quote Generator App. 
 
-Group Members
--Shairyar Ali
-
--Hammad
-
--Aqeela
-
--Rabia Shafeeq
-
-Group Lead
-Shairyar Ali
-
-What does this app do?
-This app generates Random Quotes.
-
-UI work
--Hammad
-
--Aqeela
-
-JavaScript work
--Shairyar Ali
-
--Rabia Shafeeq
-
-Documentation
--Aqeela
 
 Tools
 -HTML, CSS, JavaScript (for coding and implementation on UI)
